@@ -13,3 +13,9 @@ Fact 4) Try not to import package as static import. Like:
         )
 
         This might cause confusion, when we have multiple static imports, then it is difficult to identify in which package the function's definition is.
+
+        ex. Look inside dontDo/staticImport
+
+Fact 5) In return of a function, we don't have to write name of variables we want to return, if we have mentioned the names in function's return definition.
+
+        ex. Look inside interesting/return
