@@ -19,3 +19,7 @@ Fact 4) Try not to import package as static import. Like:
 Fact 5) In return of a function, we don't have to write name of variables we want to return, if we have mentioned the names in function's return definition.
 
         ex. Look inside interesting/return
+
+Fact 6) In parameter of function, if multiple variables have same datatype, we can declare that datatype only once and all the variables left to that datatype will have that datatype.
+
+        ex. Look inside interesting/functionparams
