@@ -23,3 +23,8 @@ Fact 5) In return of a function, we don't have to write name of variables we wan
 Fact 6) In parameter of function, if multiple variables have same datatype, we can declare that datatype only once and all the variables left to that datatype will have that datatype.
 
         ex. Look inside interesting/functionparams
+
+Fact 7) We can declare multiple variables in same line.
+        Also, The interesting thing is those 2 or more variable need not be of same datatype.
+
+        ex. Look inside interesting/multipleVariables
