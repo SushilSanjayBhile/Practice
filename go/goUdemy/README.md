@@ -28,3 +28,9 @@ Fact 7) We can declare multiple variables in same line.
         Also, The interesting thing is those 2 or more variable need not be of same datatype.
 
         ex. Look inside interesting/multipleVariables
+
+Fact 8) In go, there are 3 scopes for variables: Block, package, universal
+
+        i) For Block scope take a look inside interesting/variableScope/blockScope
+        ii) For package scope take a look inside interesting/variableScope/packageScope
+        iii) For universal scope take a look inside interesting/variableScope/universalScope
