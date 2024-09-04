@@ -1,11 +1,25 @@
 package main
 
 import (
+	"fmt"
+
 	"leetcode.com/codes"
 )
 
 func main() {
-	codes.Permutation()
+	// fmt.Println(codes.LongestCommonPrefix([]string{"flower", "flow", "flight"}))
+	// fmt.Println(codes.LongestCommonPrefix([]string{"dog", "racecar", "car"}))
+	fmt.Println(codes.LongestCommonPrefix([]string{""}))
+
+	// fmt.Println(codes.TwoSum([]int{2, 7, 11, 15}, 9))
+
+	// fmt.Println(codes.RomanToInt("III"))
+	// fmt.Println(codes.RomanToInt("LVIII"))
+	// fmt.Println(codes.RomanToInt("MCMXCIV"))
+
+	// ds.QueueOperations()
+	// ds.StackOperations()
+	// codes.Permutation()
 
 	// fmt.Println(codes.GcdOfStringsRecursion("ABCABC", "ABC"))
 
