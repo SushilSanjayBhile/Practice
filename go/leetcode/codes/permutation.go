@@ -1,0 +1,5 @@
+package codes
+
+func Permutation() {
+
+}
