@@ -6,10 +6,22 @@ import (
 	"leetcode.com/codes"
 )
 
+// "fmt"
+
 func main() {
+	input := []int{3, 5, -1, 8, 12}
+	input = []int{3, 5, -1, 8, 100}
+	// input = []int{5, 3, -1, 8, 12}
+	result := codes.CanSumToLargest(input)
+	fmt.Println(result) // Output: false
+
+	// codes.MergeTwoLists()
+
+	// codes.IsValid()
+
 	// fmt.Println(codes.LongestCommonPrefix([]string{"flower", "flow", "flight"}))
 	// fmt.Println(codes.LongestCommonPrefix([]string{"dog", "racecar", "car"}))
-	fmt.Println(codes.LongestCommonPrefix([]string{""}))
+	// fmt.Println(codes.LongestCommonPrefix([]string{""}))
 
 	// fmt.Println(codes.TwoSum([]int{2, 7, 11, 15}, 9))
 
