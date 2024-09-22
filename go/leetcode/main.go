@@ -1,19 +1,17 @@
 package main
 
 import (
-	"fmt"
-
 	"leetcode.com/codes"
 )
 
 // "fmt"
 
 func main() {
-	input := []int{3, 5, -1, 8, 12}
-	input = []int{3, 5, -1, 8, 100}
-	// input = []int{5, 3, -1, 8, 12}
-	result := codes.CanSumToLargest(input)
-	fmt.Println(result) // Output: false
+	codes.ReverseVowels()
+
+	// codes.MergeAlternately()
+
+	// codes.CanSumToLargest()
 
 	// codes.MergeTwoLists()
 
