@@ -1,19 +1,19 @@
 package main
 
-import (
-	"leetcode.com/codes"
-)
+import "leetcode.com/codes"
 
 // "fmt"
 
 func main() {
-	codes.ReverseVowels()
+	// codes.RomanToInt()
+
+	// codes.ReverseVowels()
 
 	// codes.MergeAlternately()
 
 	// codes.CanSumToLargest()
 
-	// codes.MergeTwoLists()
+	codes.MergeTwoLists()
 
 	// codes.IsValid()
 
@@ -22,10 +22,6 @@ func main() {
 	// fmt.Println(codes.LongestCommonPrefix([]string{""}))
 
 	// fmt.Println(codes.TwoSum([]int{2, 7, 11, 15}, 9))
-
-	// fmt.Println(codes.RomanToInt("III"))
-	// fmt.Println(codes.RomanToInt("LVIII"))
-	// fmt.Println(codes.RomanToInt("MCMXCIV"))
 
 	// ds.QueueOperations()
 	// ds.StackOperations()
