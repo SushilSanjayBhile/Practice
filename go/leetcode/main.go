@@ -5,6 +5,10 @@ import "leetcode.com/codes"
 // "fmt"
 
 func main() {
+	// codes.MaxProductDifference()
+
+	codes.Search()
+
 	// codes.RomanToInt()
 
 	// codes.ReverseVowels()
@@ -13,7 +17,7 @@ func main() {
 
 	// codes.CanSumToLargest()
 
-	codes.MergeTwoLists()
+	// codes.MergeTwoLists()
 
 	// codes.IsValid()
 
