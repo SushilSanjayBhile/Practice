@@ -5,9 +5,11 @@ import "leetcode.com/codes"
 // "fmt"
 
 func main() {
+	codes.RemoveElement()
+
 	// codes.MaxProductDifference()
 
-	codes.Search()
+	// codes.Search()
 
 	// codes.RomanToInt()
 
