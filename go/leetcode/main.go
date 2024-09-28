@@ -5,7 +5,17 @@ import "leetcode.com/codes"
 // "fmt"
 
 func main() {
-	codes.RemoveElement()
+	codes.SearchInsert()
+
+	// codes.PlusOne()
+
+	// codes.LengthOfLastWord()
+
+	// codes.StrStr()
+
+	// codes.RemoveDuplicates()
+
+	// codes.RemoveElement()
 
 	// codes.MaxProductDifference()
 
