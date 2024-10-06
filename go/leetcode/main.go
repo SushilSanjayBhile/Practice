@@ -5,7 +5,11 @@ import "leetcode.com/codes"
 // "fmt"
 
 func main() {
-	codes.SearchInsert()
+	codes.MySqrt()
+	
+	// codes.AddBinary()
+
+	// codes.SearchInsert()
 
 	// codes.PlusOne()
 
